@@ -1,0 +1,1 @@
+streamlit   # optional dashboard only: streamlit run app.py

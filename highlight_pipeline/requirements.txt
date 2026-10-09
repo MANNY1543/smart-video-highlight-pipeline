@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pydantic>=2
+pillow
+ultralytics        # YOLO11n detector (pulls in torch)
+torch
+lapx              # ByteTrack association (used only with --tracking)
+google-genai       # hosted Gemini VLM (remote; no local VLM weights)
